@@ -16,6 +16,7 @@ public class RestTemplatesApplication {
         System.out.println("Результат из командной строки");
         System.out.println(result);
 
+
     }
 
 }
